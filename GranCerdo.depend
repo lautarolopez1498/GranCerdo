@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1720286554 source:c:\users\lauta\onedrive\escritorio\laboratorio\grancerdo\main.cpp
+	<iostream>
+	<time.h>
+	<unistd.h>
+	"funciones.h"
+
+1720286913 c:\users\lauta\onedrive\escritorio\laboratorio\grancerdo\funciones.h
+	<iostream>
+	<time.h>
+	<unistd.h>
+	<string>
+
+1720287446 source:c:\users\lauta\onedrive\escritorio\laboratorio\grancerdo\funciones.cpp
+	"funciones.h"
+
